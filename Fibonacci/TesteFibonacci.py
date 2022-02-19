@@ -3,7 +3,6 @@ import array as lista
 valorAnt = 1
 valorSoma = 1
 valorProx = 1
-
 listaResult = lista.array('i',[1])
 
 print(valorAnt)
