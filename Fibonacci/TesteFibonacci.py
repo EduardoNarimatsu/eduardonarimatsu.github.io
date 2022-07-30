@@ -18,8 +18,6 @@ while(count < 20):
 print(listaResult)
 
 
-
-
 #print("Sequencia de Fibonacci: \n")
 #anterior = 0
 #proxima = 1
