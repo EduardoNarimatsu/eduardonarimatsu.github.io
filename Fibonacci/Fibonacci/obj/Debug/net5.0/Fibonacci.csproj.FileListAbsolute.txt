@@ -1,0 +1,16 @@
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.deps.json
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.runtimeconfig.json
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.runtimeconfig.dev.json
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.dll
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci.pdb
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.csproj.AssemblyReference.cache
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.AssemblyInfoInputs.cache
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.AssemblyInfo.cs
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.csproj.CoreCompileInputs.cache
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.dll
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/obj/Debug/net5.0/ref/Fibonacci.dll
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.pdb
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/obj/Debug/net5.0/Fibonacci.genruntimeconfig.cache
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/bin/Debug/net5.0/Fibonacci
+/Users/eduardonarimatsu/Projects/Fibonacci/Fibonacci/obj/Debug/net5.0/refint/Fibonacci.dll
